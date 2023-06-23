@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashitaverma07" alt="ashitaverma07" /></a> </p>
 
-- 🔭 I’m currently working on **State Special Website project**
+- 🔭 I’m currently working with **Accenture** as **Advanced App Engineering Analyst Intern**
 
-- 🌱 I’m currently learning **Advanced Java & ReactJs**
+- 🌱 I’m currently learning **Express Js and Azure Ops**
 
-- 🤝 I’m looking for help with **News Reader Web App**
+- 🤝 I’m looking for help with **Express Js**
 
 - 📝 I regularly write articles on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
 
