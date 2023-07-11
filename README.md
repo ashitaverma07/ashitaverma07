@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working with **Accenture** as **Advanced App Engineering Analyst Intern**
 
-- 🌱 I’m currently learning **Express Js and Azure Ops**
+- 🌱 I’m currently learning **React,js, MSAL.js and Azure Ops**
 
-- 🤝 I’m looking for help with **Express Js**
+- 🤝 I’m looking for help with **Express**
 
 - 📝 I regularly write articles on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
 
