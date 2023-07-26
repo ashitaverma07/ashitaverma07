@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with **Accenture** as **Advanced App Engineering Analyst Intern**
 
-- 🌱 I’m currently learning **React,js, MSAL.js and Azure Ops**
+- 🌱 I’m currently learning **Reac-js, MongoDb, MSAL.js and Azure Ops**
 
 - 🤝 I’m looking for help with **Express**
 
