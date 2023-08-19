@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashitaverma07" alt="ashitaverma07" /></a> </p>
 
-- 🔭 I’m currently working with **Accenture** as **Advanced App Engineering Analyst Intern**
+- 🔭 I have worked with **Accenture** as **Advanced App Engineering Analyst Intern**
 
-- 🌱 I’m currently learning **Reac-js, MongoDb, MSAL.js and Azure Ops**
+- 🌱 I’m currently learning **Reac-js, JavaScript and DSA**
 
 - 🤝 I’m looking for help with **Express**
 
