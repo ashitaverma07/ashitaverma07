@@ -7,7 +7,7 @@
 
 - 🔭 I have worked with **Accenture** as **Advanced App Engineering Analyst Intern**
 
-- 🌱 I’m currently learning **Reac-js, JavaScript and DSA**
+- 🌱 I’m currently learning **React-js, JavaScript and DSA**
 
 - 🤝 I’m looking for help with **Express**
 
