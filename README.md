@@ -13,7 +13,7 @@
 
 - 📝 I regularly write article on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
 
-- 📫 How to reach me **ashitaverma4@gmail.com**
+- 📫 How to reach me **ashitaverma14@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qo3_B7uAPER8ftPnXkztGMovi0wUH4zJ/view?usp=share_link](https://drive.google.com/file/d/1qo3_B7uAPER8ftPnXkztGMovi0wUH4zJ/view?usp=share_link)
 
