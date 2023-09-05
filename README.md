@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Express**
 
-- 📝 I regularly write article on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
+- 📝 I regularl write article on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
 
 - 📫 How to reach me **ashitaverma14@gmail.com**
 
