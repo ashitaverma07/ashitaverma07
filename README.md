@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-js, JavaScript and DSA**
 
-- 🤝 I’m looking for help with **Express**
+- 🤝 I’m looking for help with **Express.**
 
 - 📝 I regularly write article on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
 
