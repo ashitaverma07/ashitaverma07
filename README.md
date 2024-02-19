@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashitaverma14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PnD59n-_3T-DYGaS0mR12NWGBj6ADWki/view?usp=sharing]([https://drive.google.com/file/d/1qo3_B7uAPER8ftPnXkztGMovi0wUH4zJ/view?usp=share_link](https://drive.google.com/file/d/1PnD59n-_3T-DYGaS0mR12NWGBj6ADWki/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qo3_B7uAPER8ftPnXkztGMovi0wUH4zJ/view?usp=share_link](https://drive.google.com/file/d/1PnD59n-_3T-DYGaS0mR12NWGBj6ADWki/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
