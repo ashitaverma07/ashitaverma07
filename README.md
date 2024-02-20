@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ashita Verma</h1>
-<h3 align="center">A passionate web developer from India, Final year CSE undergrad in VIT, Bhopal.</h3>
+<h3 align="center">A passionate web developer from India, Final year CSE ndergrad in VIT, Bhopal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitaverma07&label=Profile%20views&color=0e75b6&style=flat" alt="ashitaverma07" /> </p>
 
