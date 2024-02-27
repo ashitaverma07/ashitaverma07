@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Express**
 
-- 🤝 My Portfolio : [https://ashitaportfolio.vercel.app/](https://ashitaportfolio.vercel.app/)
+- 📃 My Portfolio : [https://ashitaportfolio.vercel.app/](https://ashitaportfolio.vercel.app/)
 
 - 📝 I regularly write article on [https://medium.com/@ashita.verma2020](https://medium.com/@ashita.verma2020)
 
