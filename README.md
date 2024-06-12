@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I have worked with Accenture as an Advanced App Engineering Analyst Intern.<br>🌱 I’m currently learning Java and DSA.<br>🤝 I’m looking for help with Express.<br>📃 My Portfolio: https://ashitaportfolio.vercel.app/<br>📝 I regularly write articles on https://medium.com/@ashita.verma2020<br>📫 How to reach me ashitaverma14@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1qo3_B7uAPER8ftPnXkztGMovi0wUH4zJ/view?usp=share_link<br><br><br>
+🔭 I have worked with Accenture as an Advanced App Engineering Analyst intern and as an Web Developer intern in Artbeat Entertainment Pvt. Ltd.<br>🌱 I’m currently learning Java and DSA.<br>🤝 I’m looking for help with Express.<br>📃 My Portfolio: https://ashitaportfolio.vercel.app/<br>📝 I regularly write articles on https://medium.com/@ashita.verma2020<br>📫 How to reach me ashitaverma14@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1qo3_B7uAPER8ftPnXkztGMovi0wUH4zJ/view?usp=share_link<br><br><br>
 
 
 ## 🌐 Socials:
